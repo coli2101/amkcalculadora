@@ -1,0 +1,16 @@
+$main-color:#999999;
+.card{
+    margin: 10px auto;
+    width: 270px;
+    .form{
+        .field{
+            width: 100%;
+            .input{
+                color:$main-color;
+            }
+        }
+    }
+}
+.boton{
+    width: 60px;
+}
